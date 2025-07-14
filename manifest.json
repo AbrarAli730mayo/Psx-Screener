@@ -1,0 +1,10 @@
+{
+  "name": "PSX Screener",
+  "short_name": "PSXScreener",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a8a",
+  "description": "Find the Right Stocks at the Right Time",
+  "icons": []
+}
